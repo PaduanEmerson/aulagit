@@ -4,4 +4,4 @@ linha 03
 linha x
 
 
-nova funcinalidade
+nova funcionalidade
